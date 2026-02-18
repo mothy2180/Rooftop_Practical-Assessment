@@ -7,6 +7,7 @@ remainder = x
 if y == 0 :
     print("Value of x must be bigger than value of y")
 
+#using substrating method to get the answer
 while remainder >= y:
     remainder = remainder - y
     quotient = quotient + 1

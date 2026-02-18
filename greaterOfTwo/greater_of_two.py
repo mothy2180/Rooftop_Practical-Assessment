@@ -1,6 +1,6 @@
 x = int(input("Enter value of x: "))
 y = int(input("Enter value of y: "))
-while x > y :
+while x > y : #use a nested while loop
     print(x)
     break
 else:

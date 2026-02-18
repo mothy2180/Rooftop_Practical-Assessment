@@ -1,11 +1,11 @@
 stack = []
 
 def push(number):
-    stack.append(number)
+    stack.append(number) #add value from the back
 
 def pop():
     if stack:
-        return stack.pop()
+        return stack.pop() 
     return None
 
 def peek():
