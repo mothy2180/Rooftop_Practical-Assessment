@@ -1,4 +1,5 @@
 make sure to navigate to the folder eg. cd hello
+
 run the script: python (the file name), eg. python hello.py to run the file
 
 question1: straightforward and easy
